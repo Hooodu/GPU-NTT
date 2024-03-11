@@ -1,0 +1,6 @@
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/NTT_Library.dir
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/test_ntt_cpu.dir
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/test_ntt_gpu.dir
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/bench_ntt_gpu.dir
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/edit_cache.dir
+/home/hoyun/workspace/test-GPU-NTT/cmake-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+# ninja log v5
+1605	1662	1710125905445298373	CMakeFiles/bench_ntt_gpu.dir/cmake_device_link.o	6c17560f18f21d14
+1662	1714	1710125905501299250	bench_ntt_gpu	e316fc4d9babf2ad
+1605	1654	1710126479321216833	test_ntt_gpu	7aefed4452735012
+1501	1580	1710126087208009676	CMakeFiles/test_ntt_cpu.dir/cmake_device_link.o	40fc0e00b33a53fa
+1531	1605	1710126479269216182	CMakeFiles/test_ntt_gpu.dir/cmake_device_link.o	236cbd64ede88dac
+1	1501	1710126087128008535	CMakeFiles/test_ntt_cpu.dir/test/ntt_cpu_test.cu.o	4fd113ba8fe06cb0
+0	794	1710125904577284783	CMakeFiles/NTT_Library.dir/src/common.cu.o	d444b7a7109e8a8e
+1	1531	1710126479193215231	CMakeFiles/test_ntt_gpu.dir/test/ntt_gpu_test.cu.o	72afde6d1dc70dc3
+1	890	1710125904673286287	CMakeFiles/NTT_Library.dir/src/ntt_cpu.cu.o	b6522283b3f6b4bc
+1	1579	1710125905361297058	CMakeFiles/NTT_Library.dir/src/ntt.cu.o	9d7ead45c1f4bcfc
+1	857	1710125904641285785	CMakeFiles/NTT_Library.dir/src/nttparameters.cu.o	808a290c87b0f79a
+1580	1623	1710126087252010303	test_ntt_cpu	b029f61157917a72
+1	1585	1710125905369297184	CMakeFiles/bench_ntt_gpu.dir/test/ntt_gpu_bench.cu.o	1fa848b29bdba9fd
+1579	1605	1710125905389297497	libNTT_Library.a	11e58cd1478d6024
+1	1509	1710131305066183060	CMakeFiles/test_ntt_gpu.dir/test/ntt_gpu_test.cu.o	72afde6d1dc70dc3
+1509	1572	1710131305130183861	CMakeFiles/test_ntt_gpu.dir/cmake_device_link.o	236cbd64ede88dac
+1572	1619	1710131305178184461	test_ntt_gpu	7aefed4452735012
